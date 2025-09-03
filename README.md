@@ -52,7 +52,7 @@ I can build and train basic machine learning models for tasks like prediction or
 - **Tools I use:** Python, Scikit-learn (based on foundational knowledge).
 - **Applied Learning:** Executed projects involving data extraction, cleaning, and analysis to solve real-world business problems.
 
-##Project 1: Sales Data Analysis & Insights Dashboard
+## Project 1: Sales Data Analysis & Insights Dashboard
 
 - **The Problem:** A business has messy sales data stored in multiple CSV files. They need a clear way to understand their performance, track trends, and identify their best-selling products to make better decisions.
 
