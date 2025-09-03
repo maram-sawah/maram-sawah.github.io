@@ -10,13 +10,13 @@ I am actively seeking entry-level opportunities or internships where I can learn
 I help businesses transform raw data into actionable insights using Python and cloud technologies.
 أساعد الشركات على تحويل البيانات الخام إلى رؤى قابلة للتنفيذ باستخدام Python وتقنيات السحابة الإلكترونية.
 
-##Education
+## Education
 **Bachelor of Science in Artificial Intelligence**  
 Faculty of Computers and Information, ZAGAZIG NATIONAL UNIVERSITY 
 *(2022 – Expected 2026)*  
 - **Core Focus:** Building a strong theoretical foundation in AI algorithms, machine learning models, and data structures.
 
-##Courses & Certifications
+## Courses & Certifications
 
 **Digital Egypt Pioneers initiative(DEPI) (مبادرة رواد مصر الرقمية)**  
 A rigorous government-backed program focused on building in-demand digital skills for the future job market.
@@ -24,8 +24,8 @@ A rigorous government-backed program focused on building in-demand digital skill
 **Data Management & Python Stack for AI**  
 - **Skills Acquired:** SQL & SQLite for database management and querying. Python programming for data analysis and manipulation using Pandas and NumPy libraries.
 
-#Skills
-## 💻 Technical Skills
+
+## Skills
 
 **Programming Languages:** Python, SQL  
 **Data Analysis & Manipulation:** Pandas, NumPy  
