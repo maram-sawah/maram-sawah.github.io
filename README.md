@@ -1,6 +1,6 @@
 # Hello ,I'm Maram Emad El-sawah
 
-##About me
+## About me
 I'm an enthusiastic and detail-oriented **Aspiring Data & AI Engineer** with a solid foundation in Python, data manipulation, and machine learning principles. My journey into the world of data began during my university studies, and I've been actively building my skills ever since through hands-on projects.
 
 While I may be at the beginning of my professional career, what I lack in years of experience, I make up for with a **strong passion for learning, a problem-solving mindset, and a commitment to writing clean, efficient code.** I've successfully completed projects involving data cleaning, analysis, and building predictive models, and I'm eager to apply my knowledge to real-world challenges.
